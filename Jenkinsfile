@@ -1,7 +1,7 @@
 pipeline {
     agent none
     environment {
-      hello = 'echo "hello alohaa"'
+      hello = 'echo "hello alohaaa"'
       goodbye = 'echo "good bye"'
     }
     stages {
